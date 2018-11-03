@@ -3,3 +3,7 @@ personal changelog for mod "MD2 base"
 - 20/01/2018
 
 	- added modsync
+
+- 03/11/2018
+
+	- 1.0 update
